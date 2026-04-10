@@ -8,15 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a5d4815-b0af-4d5b-a620-5c0cbe39a93a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/App.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/App.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Logistiks.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/MainWindow.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/MainWindow.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/app.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/LoginWindow.axaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/LoginWindow.axaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/RegisterWindow.axaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/RegisterWindow.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/MainWindow.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/MainWindow.axaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,24 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "semediy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/semediy/Logistics.git",
+    "accountId": "ccd2c532-3f4b-45c5-aab7-a12a76dc01e6"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Logistiks/LoginWindow.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/LoginWindow.axaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/RegisterWindow.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/RegisterWindow.axaml.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -43,7 +60,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775828045216</updated>
-      <workItem from="1775828055739" duration="5801000" />
+      <workItem from="1775828055739" duration="11022000" />
     </task>
     <servers />
   </component>

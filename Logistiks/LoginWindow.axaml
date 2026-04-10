@@ -1,0 +1,26 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Logistiks.LoginWindow"
+        Title="Вхід"
+        Width="500"
+        Height="400">
+
+    <StackPanel Margin="30" Spacing="15">
+
+        <TextBlock Text="Вхід у систему"
+                   FontSize="24"
+                   HorizontalAlignment="Center"/>
+
+        <Label Content="ПІБ"/>
+        <TextBox Name="NameBox"/>
+
+        <Label Content="Пароль"/>
+        <TextBox Name="PasswordBox"
+                 PasswordChar="*"/>
+
+        <Button Content="Увійти"
+                Click="LoginClick"/>
+
+    </StackPanel>
+
+</Window>
