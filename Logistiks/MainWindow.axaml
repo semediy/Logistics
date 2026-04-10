@@ -4,6 +4,38 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="Logistiks.MainWindow"
-        Title="Logistiks">
-    Welcome to Avalonia!
+        Title="Logistiсs">
+        <StackPanel Margin="20" Spacing="12" VerticalAlignment="Center">
+                <TextBlock Text="Logisticks.company"
+                           FontSize="36"/>
+                <StackPanel.Styles>
+                        <Style Selector="Button">
+                                <Setter Property="Background"    Value="#4F46E5"/>
+                                <Setter Property="Foreground"    Value="White"/>
+                                <Setter Property="Padding"       Value="16,9"/>
+                                <Setter Property="FontSize"      Value="14"/>
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                        </Style>
+
+                        <!-- Hover: темніший відтінок при наведенні -->
+                        <Style Selector="Button:pointerover">
+                                <Setter Property="Background" Value="#3730A3"/>
+                        </Style>
+
+                        <!-- Pressed: ще темніший при натисканні -->
+                        <Style Selector="Button:pressed">
+                                <Setter Property="Background" Value="#312E81"/>
+                                <Setter Property="RenderTransform">
+                                        <Setter.Value>
+                                                <ScaleTransform ScaleX="0.97" ScaleY="0.97"/>
+                                        </Setter.Value>
+                                </Setter>
+                        </Style>
+                </StackPanel.Styles>
+
+                <Button Content="Увійти"/>
+                <Button Content="Зареєструватися"/>
+        </StackPanel>
+
+    
 </Window>
