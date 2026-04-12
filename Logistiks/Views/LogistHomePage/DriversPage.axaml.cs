@@ -4,7 +4,7 @@ using Avalonia.Markup.Xaml;
 
 namespace Logistiks.Views;
 
-public partial class DriversPage : Window
+public partial class DriversPage :  UserControl
 {
     public DriversPage()
     {

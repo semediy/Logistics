@@ -10,7 +10,7 @@ public partial class LogistHomePage : UserControl
         InitializeComponent();
         
         ContentArea.Content = new TransportationsPage();
-        ContentArea.Content = new DriversPage();
+       
     }
 
     private void OpenTransport(object? sender, RoutedEventArgs e)

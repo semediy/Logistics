@@ -8,34 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a5d4815-b0af-4d5b-a620-5c0cbe39a93a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/DriverHomePage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/DriverHomePage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LoginPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/CalendarPage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/SettingsPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/SettingsPage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/TransportationsPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/TransportationsPage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/VehiclesPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/VehiclesPage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/RegisterPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/RegisterPage.axaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/StartPage.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Views/StartPage.axaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/LoginWindow.axaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/LoginWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LoginPage.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/Logistiks.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Logistiks.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/MainWindow.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/RegisterWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/CalendarPage.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/RegisterWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/SettingsPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/SettingsPage.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/VehiclesPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/VehiclesPage.axaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +115,7 @@
       <workItem from="1775930954252" duration="2028000" />
       <workItem from="1775937934930" duration="4002000" />
       <workItem from="1776001301853" duration="973000" />
-      <workItem from="1776015852860" duration="1221000" />
+      <workItem from="1776015852860" duration="2805000" />
     </task>
     <servers />
   </component>

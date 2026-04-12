@@ -13,6 +13,12 @@
         <entry key="Logistiks/Views/LoginPage.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/LoginWindow.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/LogistHomePage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LogistHomePage/DriversPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LogistHomePage/LogistHomePage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LogistHomePage/RoutesPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LogistHomePage/SettingsPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LogistHomePage/TransportationsPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LogistHomePage/VehiclesPage.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/RegisterPage.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/RoutesPage.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/SettingsPage.axaml" value="Logistiks/Logistiks.csproj" />
