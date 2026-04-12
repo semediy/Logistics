@@ -7,6 +7,11 @@
         <entry key="Logistiks/LoginWindow.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/MainWindow.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/RegisterWindow.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Resources/Colors.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Resources/Spacing.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Resources/Styles.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Resources/Templates.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Resources/Typography.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/CalendarPage.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/DriverHomePage.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/Views/DriversPage.axaml" value="Logistiks/Logistiks.csproj" />

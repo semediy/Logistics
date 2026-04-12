@@ -1,0 +1,9 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Thickness x:Key="SpacingXSmall">4</Thickness>
+    <Thickness x:Key="SpacingSmall">8</Thickness>
+    <Thickness x:Key="SpacingMedium">12</Thickness>
+    <Thickness x:Key="SpacingLarge">16</Thickness>
+    <Thickness x:Key="SpacingXLarge">24</Thickness>
+    <!-- Add Resources Here -->
+</ResourceDictionary>

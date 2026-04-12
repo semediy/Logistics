@@ -8,14 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a5d4815-b0af-4d5b-a620-5c0cbe39a93a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Colors.axaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Spacing.axaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Styles.axaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Templates.axaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Typography.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/DriversPage.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/SettingsPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/SettingsPage.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/VehiclesPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/LogistHomePage/VehiclesPage.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/App.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/App.axaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +41,21 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Colors.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Spacing.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Styles.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Templates.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Typography.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/DriverHomePage.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/DriverHomePage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/LoginPage.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/LoginPage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Logistiks/Views/LogistHomePage.axaml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Logistiks/Views/LogistHomePage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Views/LogistHomePage/LogistHomePage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/Views/LogistHomePage/RoutesPage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/RegisterPage.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/RegisterPage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Logistiks/Views/RoutesPage.axaml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Logistiks/Views/RoutesPage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/StartPage.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Views/StartPage.axaml.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -115,7 +120,7 @@
       <workItem from="1775930954252" duration="2028000" />
       <workItem from="1775937934930" duration="4002000" />
       <workItem from="1776001301853" duration="973000" />
-      <workItem from="1776015852860" duration="2805000" />
+      <workItem from="1776015852860" duration="6078000" />
     </task>
     <servers />
   </component>
