@@ -1,29 +1,18 @@
 using Avalonia.Controls;
-using Avalonia.Interactivity;
+using Logistiks.Views;
 
 namespace Logistiks;
 
 public partial class MainWindow : Window
 {
+    public static ContentControl MainFrameInstance = null!;
+
     public MainWindow()
     {
         InitializeComponent();
-    }
 
-    private void OpenLogin(object? sender, RoutedEventArgs e)
-    {
-        var loginWindow = new LoginWindow();
-        loginWindow.Show();
-    }
+        MainFrameInstance = MainFrame;
 
-    private void OpenRegister(object? sender, RoutedEventArgs e)
-    {
-        var registerWindow = new RegisterWindow();
-        registerWindow.Show();
-    }
-
-    private void CloseApp(object? sender, RoutedEventArgs e)
-    {
-        Close();
+        MainFrame.Content = new StartPage();
     }
 }

@@ -1,0 +1,34 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Logistiks.Views.LogistHomePage">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        
+
+        <StackPanel Background="#F3F4F6"
+                    Spacing="10"
+                    Margin="10">
+
+            <Button Content="Перевезення" Click="OpenTransport"/>
+            <Button Content="Водії" Click="OpenDrivers"/>
+            <Button Content="Маршрути" Click="OpenRoutes"/>
+            <Button Content="Авто" Click="OpenVehicles"/>
+            <Button Content="Календар" Click="OpenCalendar"/>
+            <Button Content="Налаштування" Click="OpenSettings"/>
+
+        </StackPanel>
+
+        
+
+        <ContentControl Name="ContentArea"
+                        Grid.Column="1"/>
+
+    </Grid>
+
+</UserControl>

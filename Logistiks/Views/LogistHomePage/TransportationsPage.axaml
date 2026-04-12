@@ -1,0 +1,14 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Logistiks.Views.TransportationsPage">
+
+    <StackPanel Margin="20">
+
+        <TextBlock Text="Перевезення"
+                   FontSize="24"/>
+
+        <Button Content="Додати перевезення"/>
+
+    </StackPanel>
+
+</UserControl>

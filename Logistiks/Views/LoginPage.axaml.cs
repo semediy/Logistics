@@ -1,17 +1,17 @@
 using Avalonia.Controls;
 using Avalonia.Interactivity;
 
-namespace Logistiks;
+namespace Logistiks.Views;
 
-public partial class LoginWindow : Window
+public partial class LoginPage : UserControl
 {
-    public LoginWindow()
+    public LoginPage()
     {
         InitializeComponent();
     }
 
     private void LoginClick(object? sender, RoutedEventArgs e)
     {
-        Title = "Вхід виконано";
+        MainWindow.MainFrameInstance.Content = new LogistHomePage();
     }
 }

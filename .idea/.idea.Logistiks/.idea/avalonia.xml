@@ -7,6 +7,18 @@
         <entry key="Logistiks/LoginWindow.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/MainWindow.axaml" value="Logistiks/Logistiks.csproj" />
         <entry key="Logistiks/RegisterWindow.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/CalendarPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/DriverHomePage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/DriversPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LoginPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LoginWindow.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/LogistHomePage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/RegisterPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/RoutesPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/SettingsPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/StartPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/TransportationsPage.axaml" value="Logistiks/Logistiks.csproj" />
+        <entry key="Logistiks/Views/VehiclesPage.axaml" value="Logistiks/Logistiks.csproj" />
       </map>
     </option>
   </component>

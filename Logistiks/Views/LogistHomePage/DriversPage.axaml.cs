@@ -2,11 +2,11 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace Logistiks;
+namespace Logistiks.Views;
 
-public partial class RegisterWindow : Window
+public partial class DriversPage : Window
 {
-    public RegisterWindow()
+    public DriversPage()
     {
         InitializeComponent();
     }
