@@ -1,4 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
+
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
         <TargetFramework>net10.0</TargetFramework>
@@ -12,57 +13,6 @@
         <PackageReference Include="Avalonia.Desktop" Version="12.0.0"/>
         <PackageReference Include="Avalonia.Themes.Fluent" Version="12.0.0"/>
         <PackageReference Include="Avalonia.Fonts.Inter" Version="12.0.0"/>
-        <PackageReference Include="AvaloniaUI.DiagnosticsSupport" Version="2.2.0">
-            <IncludeAssets Condition="'$(Configuration)' != 'Debug'">None</IncludeAssets>
-            <PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
-        </PackageReference>
     </ItemGroup>
-
-    <ItemGroup>
-      <Compile Update="Views\LoginPage.axaml.cs">
-        <DependentUpon>LoginWindow.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\RegisterPage.axaml.cs">
-        <DependentUpon>RegisterWindow.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\StartPage.axaml.cs">
-        <DependentUpon>StartPage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\LogistHomePage\LogistHomePage.axaml.cs">
-        <DependentUpon>LogistHomePage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\LogistHomePage\SettingsPage.axaml.cs">
-        <DependentUpon>SettingsPage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\LogistHomePage\TransportationsPage.axaml.cs">
-        <DependentUpon>TransportationsPage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\LogistHomePage\VehiclesPage.axaml.cs">
-        <DependentUpon>VehiclesPage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\LogistHomePage\CalendarPage.axaml.cs">
-        <DependentUpon>CalendarPage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\LogistHomePage\RoutesPage.axaml.cs">
-        <DependentUpon>RoutesPage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-      <Compile Update="Views\LogistHomePage\DriversPage.axaml.cs">
-        <DependentUpon>DriversPage.axaml</DependentUpon>
-        <SubType>Code</SubType>
-      </Compile>
-    </ItemGroup>
-
-    <ItemGroup>
-      <AvaloniaXaml Remove="App.axaml" />
-      <AvaloniaResource Include="App.axaml" />
-    </ItemGroup>
+   
 </Project>

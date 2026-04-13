@@ -8,14 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a5d4815-b0af-4d5b-a620-5c0cbe39a93a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Colors.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Spacing.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Styles.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Templates.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistiks/Resources/Typography.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/avalonia.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logistiks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logistiks/App.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/App.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Logistiks.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Logistiks.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Resources/Colors.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Resources/Colors.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Resources/Styles.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Resources/Styles.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Resources/Templates.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Resources/Templates.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Resources/Typography.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Resources/Typography.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistiks/Views/StartPage.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistiks/Views/StartPage.axaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,8 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Logistiks/App.axaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logistiks/App.axaml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Colors.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Spacing.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Logistiks/Resources/Styles.axaml" root0="FORCE_HIGHLIGHTING" />
@@ -120,7 +123,9 @@
       <workItem from="1775930954252" duration="2028000" />
       <workItem from="1775937934930" duration="4002000" />
       <workItem from="1776001301853" duration="973000" />
-      <workItem from="1776015852860" duration="6078000" />
+      <workItem from="1776015852860" duration="14934000" />
+      <workItem from="1776064801610" duration="2034000" />
+      <workItem from="1776072285762" duration="1088000" />
     </task>
     <servers />
   </component>

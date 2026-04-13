@@ -1,49 +1,18 @@
 <ResourceDictionary xmlns="https://github.com/avaloniaui"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <!-- Add Resources Here -->
-    
-        <!-- Gradient Button Template -->
-        <ControlTemplate x:Key="GradientButtonTemplate" TargetType="Button">
-            <Border Name="PART_Border"
-                    Background="{TemplateBinding Background}"
-                    BorderBrush="{TemplateBinding BorderBrush}"
-                    BorderThickness="{TemplateBinding BorderThickness}"
-                    CornerRadius="6"
-                    Padding="{TemplateBinding Padding}">
-                <ContentPresenter Content="{TemplateBinding Content}"
-                                  ContentTemplate="{TemplateBinding ContentTemplate}"
-                                  HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
-                                  VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
-            </Border>
-        </ControlTemplate>
 
-        <!-- Gradient Button Style -->
-        <Style x:Key="GradientButtonStyle" TargetType="Button">
-            <Setter Property="Padding" Value="16,8"/>
-            <Setter Property="Foreground" Value="White"/>
-            <Setter Property="FontSize" Value="14"/>
-            <Setter Property="FontWeight" Value="SemiBold"/>
-            <Setter Property="Template" Value="{StaticResource GradientButtonTemplate}"/>
-            <Setter Property="Background">
-                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
-                    <GradientStop Color="#3b82f6" Offset="0"/>
-                    <GradientStop Color="#8b5cf6" Offset="1"/>
-                </LinearGradientBrush>
-            </Setter>
-        </Style>
-    <!-- Синій → Фіолетовий (як у тебе) -->
-    <GradientStop Color="#3b82f6" Offset="0"/>
-    <GradientStop Color="#8b5cf6" Offset="1"/>
+    <ControlTemplate x:Key="GradientButtonTemplate" TargetType="Button">
+        <Border CornerRadius="14"
+                Background="{TemplateBinding Background}"
+                BorderBrush="#00000022"
+                BorderThickness="1"
+                Padding="0">
 
-    <!-- Зелений → Смарагдовий -->
-    <GradientStop Color="#10b981" Offset="0"/>
-    <GradientStop Color="#059669" Offset="1"/>
+            <ContentPresenter 
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"/>
 
-    <!-- Червоний → Помаранчевий -->
-    <GradientStop Color="#ef4444" Offset="0"/>
-    <GradientStop Color="#f97316" Offset="1"/>
+        </Border>
+    </ControlTemplate>
 
-    <!-- Світлий → Темний -->
-    <GradientStop Color="#f3f4f6" Offset="0"/>
-    <GradientStop Color="#d1d5db" Offset="1"/>
 </ResourceDictionary>

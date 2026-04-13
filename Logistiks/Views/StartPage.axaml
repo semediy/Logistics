@@ -9,11 +9,11 @@
         <TextBlock Text="LOGISTICS"
                    FontSize="36"/>
 
-        <Button Content="Увійти"
-                Width="200"
-                Click="OpenLogin"/>
+        <Button Classes="gradient" Content="Увійти"
+                                  Width="200"
+                                  Click="OpenLogin"/>
 
-        <Button Content="Зареєструватися"
+        <Button Classes="gradient" Content="Зареєструватися"
                 Width="200"
                 Click="OpenRegister"/>
 
